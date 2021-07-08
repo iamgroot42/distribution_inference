@@ -12,10 +12,10 @@ Folder structure:
 If you use this code in your research, cite it as follows:
 
 ```
-@article{suri2021formalizing,
+@inproceedings{suri2021formalizing,
   title={Formalizing {D}istribution {I}nference {R}isks},
   author={Suri, Anshuman and Evans, David},
-  journal={arXiv preprint arXiv:2106.03699},
+  booktitle={Workshop on Theory and Practice of Differential Privacy, ICML 2021},
   year={2021}
 }
 ```
