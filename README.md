@@ -15,7 +15,7 @@ If you use this code in your research, cite it as follows:
 @inproceedings{suri2021formalizing,
   title={Formalizing {D}istribution {I}nference {R}isks},
   author={Suri, Anshuman and Evans, David},
-  booktitle={Workshop on Theory and Practice of Differential Privacy, ICML 2021},
+  booktitle={2021 Workshop on Theory and Practice of Differential Privacy, ICML},
   year={2021}
 }
 ```
